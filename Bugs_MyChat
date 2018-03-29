@@ -1,0 +1,20 @@
+1.Class volley not identified.(Login,Register,Users)--->Done
+2.FireBase not linked.(Chat,Register)--->Done
+3.android.app.ProgressDialog(Login,Users)---->Progress Bar
+4.ApplicationTestCase--->Fixed
+5.Licenses fix--->Done
+6.FireStore link---->To be done
+
+First Review
+7.Fixing string requests: Done--->String requests only where necessary.Datasnapshot query elsewhere.
+8.clickable identified links.....Done
+9.File transfer using fireBase storage.....Done
+10.Online status ---->Done....flag marked status on login and logout
+12.Adding a few more features to UI--->Message seen status,Selected File Bitmap,Text can be selected searched on web and copied,Links are directly connected to browser activity,No crashes on leaving midway of a process.
+13.Encryption can be implemented using a (good logic) function that is an unviewable class in the APK,
+that encrypts code before editing and decrypts on retrieving,So that the database cannot be public,though avilable online.--> Done
+
+
+
+To be Done.
+15.Deleting messages(before seen).---->Code logic completed..not able to access the onClickListener function

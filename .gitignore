@@ -1,0 +1,11 @@
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+!/mychat/src/main/java/com/mychat/Upload.java
+!/mychat/src/main/res/layout/activity_upload.xml

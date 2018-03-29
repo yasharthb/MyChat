@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/hp/AndroidStudioProjects/MyChat/mychat/build/intermediates/res/merged/release/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/root/.android/build-cache/e69ccad4614b5b9171cf04655f241f794788bfb1/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/hp/AndroidStudioProjects/MyChat/mychat/build/intermediates/res/merged/release/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/root/.android/build-cache/e69ccad4614b5b9171cf04655f241f794788bfb1/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    }
+]
